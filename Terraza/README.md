@@ -1,4 +1,4 @@
-######## TERRAZA RESTAURANT WEBSITE 
+#TERRAZA RESTAURANT WEBSITE 
 
 A Simple Demo Restaurant Website made by our team members.
 ANKIT CHOUHAN,
@@ -37,6 +37,29 @@ go to this url "http://localhost/Terraza/admin".
 EMAIL ID : Ankit@gmail.com
 PASSWORD: 12345
 
+
+## SOME SNAPSHOTS OF THE WEBSITE ARE : 
+
+### USER INTERFACE SNAPSHOTS
+#### HOME PAGE
 ![image](https://user-images.githubusercontent.com/78903052/201092391-92786b57-6b85-4e16-809c-b70a50841122.png)
 
+#### ABOUT US PAGE
+![image](https://user-images.githubusercontent.com/78903052/201093488-75729075-abfd-4a51-81a5-4300fb13fc77.png)
 
+#### REGISTER PAGE
+![image](https://user-images.githubusercontent.com/78903052/201093733-67fe16a2-2e11-4210-815b-471631655601.png)
+
+#### LOGIN PAGE
+![image](https://user-images.githubusercontent.com/78903052/201093814-8b9794d4-4312-4656-87be-ee6ba7fb3b1c.png)
+
+#### FOODS PAGE
+![image](https://user-images.githubusercontent.com/78903052/201094224-c1d519e1-efc6-4c6a-9237-8878c351b1b8.png)
+
+### ADMIN INTERFACE SNAPSHOTS
+
+#### LOGIN 
+![image](https://user-images.githubusercontent.com/78903052/201094954-2d4fe39f-171c-46e6-94ab-348727b7cebe.png)
+
+#### ADMIN SECTION
+![image](https://user-images.githubusercontent.com/78903052/201094784-550e23bd-ef4f-4541-8b88-5c94201a6a7b.png)
