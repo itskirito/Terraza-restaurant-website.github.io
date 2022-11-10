@@ -22,6 +22,7 @@ session_start();
 
 	
 </head>
+	
 <body>
 
 	<?php require('chunks/login-modal.php'); ?>
