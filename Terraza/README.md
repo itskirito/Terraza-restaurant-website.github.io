@@ -2,8 +2,8 @@
 
 A Simple Demo Restaurant Website made by our team members.
 **
-1.ANKIT CHOUHAN
-2.ASHWINI KUMAR MEENA
+*ANKIT CHOUHAN
+*ASHWINI KUMAR MEENA
 3.DEEPJYOTI BORO
 4.ARCHISHMAN
 **
