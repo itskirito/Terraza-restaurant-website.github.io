@@ -3,7 +3,6 @@
 <?php require('layout/topnav.php'); ?>
 <?php require('layout/left-sidebar-short.php'); ?>
 
-
 <?php
 
 require('../backends/connection-pdo.php');
