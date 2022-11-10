@@ -46,11 +46,14 @@ go to this url "http://localhost/Terraza/admin".
 #### ABOUT US PAGE
 ![image](https://user-images.githubusercontent.com/78903052/201093488-75729075-abfd-4a51-81a5-4300fb13fc77.png)
 
-#### REGISTER PAGE
+#### REGISTRATION PAGE
 ![image](https://user-images.githubusercontent.com/78903052/201093733-67fe16a2-2e11-4210-815b-471631655601.png)
 
 #### LOGIN PAGE
 ![image](https://user-images.githubusercontent.com/78903052/201093814-8b9794d4-4312-4656-87be-ee6ba7fb3b1c.png)
+
+#### CATEGORIES PAGE
+![image](https://user-images.githubusercontent.com/78903052/201158289-d26739fa-7162-4b2e-b19a-4900e634c4bf.png)
 
 #### FOODS PAGE
 ![image](https://user-images.githubusercontent.com/78903052/201094224-c1d519e1-efc6-4c6a-9237-8878c351b1b8.png)
