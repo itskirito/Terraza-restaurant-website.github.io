@@ -16,26 +16,26 @@ In the user section, users can browse the homepage, about, and contact pages. Th
 To run this project, you must have installed **_XAMPP_** on PC.
 Then, you need to **_start Apache and MySQL_** from **XAMPP** virtual server.
 
-STEP 1: Download ZIP file or clone.
-STEP 2: Extract file in XAMPP/htdocs/
+**STEP 1:** Download ZIP file or clone.
+**STEP 2:** Extract file in XAMPP/htdocs/
 
 ### NEXT STEP IS TO CONNECT DATABASE WITH PROJECT
-STEP 3: Open browser and go to URL "http://localhost/phpmyadmin/"
-STEP 4: Go to database tab
-STEP 5: Create a database naming "terraza" and then click on import tab
-STEP 6: Click on browse file and select "terraza.sql" file which is inside the "Terraza" folder.
-STEP 7: Click on go.
+**STEP 3:** Open browser and go to URL "http://localhost/phpmyadmin/"
+**STEP 4:** Go to database tab
+**STEP 5:** Create a database naming "terraza" and then click on import tab
+**STEP 6:** Click on browse file and select "terraza.sql" file which is inside the "Terraza" folder.
+**STEP 7:** Click on go.
 
 ### AFTER CREATING DATABASE:
-STEP 8: Open browser and go to URL "http://localhost/Terraza/".
+**STEP 8:** Open browser and go to URL "http://localhost/Terraza/".
 
 ### TO ENTER IN ADMIN SECTION
 
 go to this url "http://localhost/Terraza/admin".
 
 ### TO LOGIN AS ADMIN:-
-EMAIL ID : Ankit@gmail.com
-PASSWORD: 12345
+**EMAIL ID :** Ankit@gmail.com
+**PASSWORD:** 12345
 
 
 ## SOME SNAPSHOTS OF THE WEBSITE ARE : 
