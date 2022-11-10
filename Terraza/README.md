@@ -1,4 +1,4 @@
-##TERRAZA RESTAURANT WEBSITE 
+## TERRAZA RESTAURANT WEBSITE 
 
 A Simple Demo Restaurant Website made by our team members.
 **
